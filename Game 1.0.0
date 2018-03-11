@@ -1,0 +1,5 @@
+Class game
+{
+  mp=0
+  hp=0
+}
